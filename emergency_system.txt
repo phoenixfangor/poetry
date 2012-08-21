@@ -1,0 +1,6 @@
+This is a test of the Emergency Broadcasting System
+The broadcasters in your area have developed this system to keep you informed in the event of an emergency.
+Had this been an actual emergency, the attention signal you just heard would have been followed by
+news or information.
+
+This is only a test
